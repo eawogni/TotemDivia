@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Totem</string>
+  <string name="titreLigne">Lignes</string>
+  <string name="titreArret">Arrets</string>
+  <string name="titreHoraires">Prochains passages</string>
+  
+
+  <string name ="sens0">A</string>      <!-- Identique quelques soit la langue-->
+  <string name ="sens1">R</string>      <!-- Identique quelques soit la langue-->
+  
+  <string-array name="Sens">
+    <item>Aller</item>
+    <item>Retour</item>
+  </string-array>
+  
+</resources>

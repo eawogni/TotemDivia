@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/darker_gray">
+    <TextView
+        android:text="@string/titreArret"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView1"
+        android:paddingLeft="150dp"
+        android:textColor="@android:color/background_dark"
+        android:background="@android:color/holo_orange_light" />
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:id="@+id/space1" />
+    <TextView
+        android:text="nomLigne"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtNomLigne"
+        android:paddingLeft="150dp"
+        android:textColor="@android:color/background_dark"
+        android:background="@android:color/holo_blue_dark" />
+    <ListView
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="200dp"
+        android:layout_height="415dp"
+        android:layout_gravity="center"
+        android:textAlignment="center"
+        android:id="@+id/listArret"
+        android:background="@android:color/background_dark" />
+</LinearLayout>

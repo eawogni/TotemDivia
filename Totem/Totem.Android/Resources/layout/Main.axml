@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@android:color/darker_gray">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView1"
+        android:gravity="center"
+        android:textColor="@android:color/black"
+        android:text="@string/titreLigne"
+        android:background="@android:color/holo_orange_light" />
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:id="@+id/space2" />
+    <Spinner
+        android:spinnerMode="dialog"
+        android:layout_width="match_parent"
+        android:layout_height="25dp"
+        android:id="@+id/spinner1"
+        android:visibility="visible"
+        android:gravity="center"
+        android:background="@android:color/holo_blue_dark" />
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="25dp"
+        android:id="@+id/space1" />
+    <ListView
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="200dp"
+        android:layout_height="415dp"
+        android:layout_gravity="center"
+        android:id="@+id/listeLignes"
+        android:background="@android:color/background_dark" />
+</LinearLayout>

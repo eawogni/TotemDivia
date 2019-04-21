@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/darker_gray"
+    android:minWidth="25px"
+    android:minHeight="25px">
+    <TextView
+        android:text="@string/titreHoraires"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView1"
+        android:gravity="center"
+        android:textColor="@android:color/background_dark"
+        android:background="@android:color/holo_orange_light" />
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:id="@+id/space1" />
+    <TextView
+        android:text="nomArret"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtNomArret"
+        android:paddingLeft="150dp"
+        android:textColor="@android:color/background_dark"
+        android:background="@android:color/holo_blue_dark" />
+    <ListView
+        android:minWidth="25px"
+        android:minHeight="20px"
+        android:layout_width="200dp"
+        android:layout_height="100dp"
+        android:layout_gravity="center"
+        android:textAlignment="center"
+        android:id="@+id/listHoraires"
+        android:background="@android:color/background_dark" />
+</LinearLayout>

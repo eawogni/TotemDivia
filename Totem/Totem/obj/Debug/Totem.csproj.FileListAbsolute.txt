@@ -1,0 +1,17 @@
+C:\Users\Emmanuel\Desktop\Cours S4\REVISIONS\Prog Mobile\Totem\Totem\Totem\Totem\bin\Debug\Totem.dll
+C:\Users\Emmanuel\Desktop\Cours S4\REVISIONS\Prog Mobile\Totem\Totem\Totem\Totem\bin\Debug\Totem.pdb
+C:\Users\Emmanuel\Desktop\Cours S4\REVISIONS\Prog Mobile\Totem\Totem\Totem\Totem\obj\Debug\Totem.csproj.CoreCompileInputs.cache
+C:\Users\Emmanuel\Desktop\Cours S4\REVISIONS\Prog Mobile\Totem\Totem\Totem\Totem\obj\Debug\Totem.dll
+C:\Users\Emmanuel\Desktop\Cours S4\REVISIONS\Prog Mobile\Totem\Totem\Totem\Totem\obj\Debug\Totem.pdb
+C:\Users\Emmanuel\Desktop\Totem\Totem\Totem\bin\Debug\Totem.dll
+C:\Users\Emmanuel\Desktop\Totem\Totem\Totem\bin\Debug\Totem.pdb
+C:\Users\Emmanuel\Desktop\Totem\Totem\Totem\obj\Debug\Totem.csproj.CoreCompileInputs.cache
+C:\Users\Emmanuel\Desktop\Totem\Totem\Totem\obj\Debug\Totem.dll
+C:\Users\Emmanuel\Desktop\Totem\Totem\Totem\obj\Debug\Totem.pdb
+C:\Users\Emmanuel\Desktop\Totem\Totem\Totem\obj\Debug\Totem.csprojResolveAssemblyReference.cache
+C:\Users\Emmanuel\Desktop\Projet prog Mobile\Fonctionnalité 2\Totem\Totem\Totem\bin\Debug\Totem.dll
+C:\Users\Emmanuel\Desktop\Projet prog Mobile\Fonctionnalité 2\Totem\Totem\Totem\bin\Debug\Totem.pdb
+C:\Users\Emmanuel\Desktop\Projet prog Mobile\Fonctionnalité 2\Totem\Totem\Totem\obj\Debug\Totem.csprojResolveAssemblyReference.cache
+C:\Users\Emmanuel\Desktop\Projet prog Mobile\Fonctionnalité 2\Totem\Totem\Totem\obj\Debug\Totem.csproj.CoreCompileInputs.cache
+C:\Users\Emmanuel\Desktop\Projet prog Mobile\Fonctionnalité 2\Totem\Totem\Totem\obj\Debug\Totem.dll
+C:\Users\Emmanuel\Desktop\Projet prog Mobile\Fonctionnalité 2\Totem\Totem\Totem\obj\Debug\Totem.pdb
